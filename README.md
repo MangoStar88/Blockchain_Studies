@@ -8,4 +8,10 @@ Feel free to give me any advice. It is a pleasure to communicate with you.
 ## How to use
 - I recommend you to use this repository by its number. I'll show you everything from basic concepts to market cases, all you need to do is study it step by step.
 
-<img width="270" alt="ms_sg2" src="https://user-images.githubusercontent.com/109148403/178734718-9be309cb-8e60-4459-a658-7435c1481529.png">
+
+
+
+
+##
+
+<img width="270" alt="ms_sg3" src="https://user-images.githubusercontent.com/109148403/178735510-a5768788-0b80-42aa-a80c-62d265347206.png">

@@ -1,13 +1,19 @@
 # Blockchain_Studies
 ## Introduction
-- This repository is a summary of Blockchain knowledge background. 
-If you are new, start here. It might help you understand the basics of it. 
-Because all the information is compiled by me, there may be some overlooked places. 
-Feel free to give me any advice. It is a pleasure to communicate with you.
+- The knowledge base is a summary of what I have learned about blockchain before.
+It might help you understand the basics of it. 
+Feel free to give me any advice. 
+It's a pleasure to communicate with you.
 
 ## How to use
-- I recommend you to use this repository by its number. I'll show you everything from basic concepts to market cases, all you need to do is study it step by step.
+- If you are a newbie. I strongly recommend that you use this repository by its number.
+It shows you everything from basic concepts to market cases, all you need to do is study it step by step.
 
+## What I want to say
+- It has changed our lives since the first technological revolution. 
+I am happy to share this technology with you. 
+I hope more and more people will join the industry. 
+Make it better and make you better...
 
 
 
